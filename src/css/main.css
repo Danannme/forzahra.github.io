@@ -27,7 +27,7 @@ img {
 #header {
     background-image: url(../images/zahra/firstPage.webp);
     background-position: center center;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     background-size: cover;
     position: relative;
     width: 100%;
